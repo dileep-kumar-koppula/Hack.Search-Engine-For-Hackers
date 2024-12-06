@@ -43,3 +43,15 @@
 - **IntelligenceX**—Search Tor, I2P, data leaks, domains, and emails.
 - **Packet Storm Security**—Browse latest vulnerabilities and exploits.
 - **SearchCode**—Search 75 billion lines of code from 40 million projects.
+
+## Categories
+
+- **Server**: [shodan.io](https://www.shodan.io), [onyphe.io](https://www.onyphe.io), [censys.io](https://censys.io), [ivre.rocks](https://ivre.rocks)
+- **WiFi**: [wigle.net](https://wigle.net)
+- **Codes**: [grep.app](https://grep.app), [searchcode.com](https://searchcode.com), [publicwww.com](https://publicwww.com)
+- **Threat Intelligence**: [app.binaryedge](https://app.binaryedge.io), [wiz.greynoise.io](https://viz.greynoise.io), [fofa.info](https://www.fofa.so), [zoomeye.org](https://www.zoomeye.org), [leakix.net](https://www.leakix.net), [urlscan.io](https://www.urlscan.io), [socradar.io](https://www.socradar.io), [pulsedive.com](https://www.pulsedive.com)
+- **Email**: [hunter.io](https://hunter.io)
+- **OSINT**: [intelx.io](https://www.intelx.io)
+- **Attack Surface**: [app.netlas.io](https://app.netlas.io), [fullhunt.io](https://fullhunt.io), [binaryedge.io](https://app.binaryedge.io)
+- **Certificate Search**: [crt.sh](https://crt.sh)
+- **Vulnerabilities**: [vulners.com](https://www.vulners.com)
